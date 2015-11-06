@@ -4,7 +4,7 @@ blah
 blah
 blah
 blah
-Je m'appelle Erwan.
+Je m'appelle Simon.
 Hier soir, je suis allé au bar et j'y ai rencontré Arnaud.
 blah
 blah
@@ -16,7 +16,7 @@ blah
 blah
 blah
 blah
-En chemin, Arnaud m'a cogné la tête avant de me voler.
+En chemin, Antoine m'a cogné la tête avant de me voler mon poulet.
 Depuis, je ne sais plus coder qu'en php
 blah
 blah
